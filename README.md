@@ -12,8 +12,23 @@ Convert MP4 videos to Lottie JSON animations with high quality and small file si
 
 ### Step 2: Setup Project
 
-1. Download/clone this project
-2. Open terminal/command prompt in project folder
+**Option A: Clone from GitHub**
+
+```bash
+# HTTPS (recommended for most users)
+git clone https://github.com/azhar736/MP4-to-Lottie-Converter.git
+cd MP4-to-Lottie-Converter
+
+# SSH (if you have SSH keys set up)
+git clone git@github.com:azhar736/MP4-to-Lottie-Converter.git
+cd MP4-to-Lottie-Converter
+```
+
+**Option B: Download ZIP**
+
+1. Download ZIP from [GitHub repository](https://github.com/azhar736/MP4-to-Lottie-Converter)
+2. Extract the ZIP file
+3. Open terminal/command prompt in project folder
 
 ### Step 3: Choose Your Method
 
